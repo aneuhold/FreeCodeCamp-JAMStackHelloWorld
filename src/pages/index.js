@@ -7,7 +7,7 @@ const IndexPage = () => (
   <Layout>
     <h1>Hi, I'm Tony 😁</h1>
     <p>a software engineer <a href="https://en.wikipedia.org/wiki/Jedi#Padawan">padawan</a>. 
-    My full name is Anton Neuohld, although feel free to call me Tony. I'm a student at Arizona State University
+    My full name is Anton Neuhold, although feel free to call me Tony. I'm a student at Arizona State University
     taking online classes while working full time as a building technology specialist for an Elementary School
     in Canby, OR.</p>
 
